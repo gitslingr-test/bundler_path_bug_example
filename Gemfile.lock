@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    bundler_path_bug_example (1.0.3)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler_path_bug_example!
